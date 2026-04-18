@@ -22,3 +22,5 @@ Passionate about building futuristic and functional web applications.
 This project is deployed on:
 - **Netlify**: [https://lomash.netlify.app/](https://lomash.netlify.app/)
 - **GitHub Pages**: [Link to GitHub Pages if enabled]
+
+Designed And Developed By Lomash Srivastava
